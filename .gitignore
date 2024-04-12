@@ -83,3 +83,6 @@ allure-results/*
 
 # Target
 target/*
+
+# Sensitive properties
+src/main/resources/clickup_old.properties
